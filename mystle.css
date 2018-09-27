@@ -1,0 +1,26 @@
+body {
+	background-image: url(achtergrond.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	background-size:cover
+}
+
+h1 {
+    color: white;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	-webkit-text-stroke-width: 3px;
+	-webkit-text-stroke-color: black;
+    margin-left: 20px;
+}
+
+p {
+	color: white;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	margin-left: 20px;
+}
+
+img {
+    max-width: 500px;
+    max-height: 380px;
+}
